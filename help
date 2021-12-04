@@ -1,0 +1,12 @@
+To start the game type `{0}gts *spotify playlist link*`. You can also specify
+`r=number of rounds`
+`s=duration of the played part of a song(in seconds)`
+`l=time to guess(in seconds)`
+For example: `{0}gts s=0.7 l=10 https://open.spotify.com/playlist/2YRe7HRKNRvXdJBp9nXFza`
+
+To stop the game type `{0}stop`
+To read the rules type `{0}rules`
+To see how guesses are simplified before checking for correctness type `{0}simplified *song name/artist*` 
+To see this manual type `{0}help`
+
+Please report bugs or write suggestions to Alim#6982

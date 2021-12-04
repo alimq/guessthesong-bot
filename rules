@@ -1,0 +1,6 @@
+Scoring:
++2 points for guessing song name or artist
++6 points for guessing both (type `song name - artist`)
+
+All guesses are simplified before checking for correctness:
+Only English letters, digits and special characters `{0}` are left. Everything is converted to lower case. Text inside brackets `()[]` is ignored, unless the name becomes empty. Everything after the first dash `-` in a song name/artist is ignored.
